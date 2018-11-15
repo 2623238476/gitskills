@@ -2,5 +2,9 @@ i am wangsongsong
 my name is wangsongsong
 xiaolata zhendehenlata 
 zhnagyuxuanshiyigexiaozhazha
+<<<<<<< HEAD
 sdfa
 
+=======
+asdfadsfasf
+>>>>>>> featurel
